@@ -549,7 +549,7 @@ end
 register_kor_fruit_tree("cherry", 9, 3, 7, t_grow_sap_u, t_grow_sap_l-t_disp/2, t_interval, t_disp, 8, "allfaces", "dye:magenta")
 register_kor_fruit_tree("orange", 1, 3, 7, t_grow_sap_u, t_grow_sap_l-t_disp, t_interval, t_disp*2, 8, "nodebox", "dye:orange")
 register_kor_fruit_tree("lemon", 1, 3, 7, t_grow_sap_u, t_grow_sap_l-t_disp, t_interval, t_disp*2, 8, "nodebox", "dye:yellow")
-register_kor_fruit_tree("pear", 6, 3, 7, t_grow_sap_u, t_grow_sap_l-t_disp/2, t_interval, t_disp, 8, "nodebox", "dye:dark_green")
+--register_kor_fruit_tree("pear", 6, 3, 7, t_grow_sap_u, t_grow_sap_l-t_disp/2, t_interval, t_disp, 8, "nodebox", "dye:dark_green")
 register_kor_fruit_tree("pawpaw", 2, 3, 7, t_grow_sap_u, t_grow_sap_l-t_disp/2, t_interval, t_disp, 8, "nodebox", "dye:green")
 
 -- frut pole as a tool for harvesting fruit
